@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+    <name>Content - GiBi Colorcards</name>
+    <version>1.0.0</version>
+    <creationDate>2014-09-18</creationDate>
+    <author>GiBiLogic</author>
+    <authorEmail>info@gibilogic.com</authorEmail>
+    <authorUrl>http://extensions.gibilogic.com</authorUrl>
+    <copyright>Copyright (C) 2014 GiBiLogic snc</copyright>
+    <license>GNU/GPL v3 or later</license>
+    <description><![CDATA[
+        <img src="http://extensions.gibilogic.com/images/gibilogicextensions-150x150.png" style="float: left;margin: 0 10px 10px 0" />
+        <h1>GiBi Colorcards</h1>
+        <h2>A Joomla extension from <a href="http://www.gibilogic.com">GiBiLogic</a></h2>
+        <p>This plugin adds little cards in your articles, to show of a given color with a title and description.</p>
+        <p>Discover other extension by <strong>GiBiLogic</strong> at <a href="http://extensions.gibilogic.com">extensions.gibilogic.com</a></p>
+    ]]></description>
+    <files>
+        <filename plugin="spshare">colorcards.php</filename>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">			
+            </fieldset>
+        </fields>
+    </config>
+</extension>

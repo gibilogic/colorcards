@@ -1,0 +1,13 @@
+/**
+ * @version       styles.css 2014-09-18 07:56:00 UTC zanardi
+ * @package       GiBi Colorcards
+ * @author        GiBiLogic <info@gibilogic.com>
+ * @authorUrl     http://www.gibilogic.com
+ * @copyright     (C) 2014 GiBiLogic snc - All rights reserved.
+ * @license       GNU/GPL v3 or later
+ */
+
+.colorcard {float: left;margin: 0.5em 0.5em 0 0}
+.colorcard-color {width: 105px;height: 60px;margin-bottom: 0.2em}
+.colorcard-title {font-weight: bold}
+.colorcard-title, .colorcard-description {font-size: 80%;line-height: 120%}
